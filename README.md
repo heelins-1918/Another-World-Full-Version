@@ -236,3 +236,6 @@ This repository serves as the official landing page for Another World. The softw
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Another World today!**
+
+---
+**Last updated:** 2026-09-07 17:58:03 UTC
