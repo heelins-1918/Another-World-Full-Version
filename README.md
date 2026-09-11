@@ -238,4 +238,4 @@ This repository serves as the official landing page for Another World. The softw
 **Get the most recent version of Another World today!**
 
 ---
-**Last updated:** 2026-09-11 18:48:06 UTC
+**Last updated:** 2026-09-11 21:23:13 UTC
